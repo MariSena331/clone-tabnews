@@ -1,1 +1,1 @@
-Clone tab-news
+Clone TabNews
